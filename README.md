@@ -51,6 +51,7 @@
 
 ### Diseño e implementación del frontend
 <img width="269" height="163" alt="image" src="https://github.com/user-attachments/assets/052186fb-66b1-4a85-8afb-5963f0ef93cf" />
+
 **Maquetación/Wireframe/Mockup**  
   Herramientas como Figma, Adobe XD o papel y lápiz sirven para planificar la estructura visual antes de codificar.
 **API**  
@@ -87,6 +88,7 @@
 
 ### Integración de frontend y backend
 <img width="296" height="166" alt="image" src="https://github.com/user-attachments/assets/7fb161c9-2dd9-48fa-8a6e-5bb8b0069290" />
+
 **Interfaz de usuario Frontend**  
   Desarrollo visual y funcional que interactúa con el usuario.
 **Manejo de API**  
